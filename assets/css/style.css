@@ -69,7 +69,7 @@ body {
 	border-width: 2px;
 	border-color: black;
 	border-radius: 5px;
-	padding: 6px 0 20px 0;
+	padding: 0px 0 5px 0;
 }
 
 .titleName {
@@ -128,8 +128,6 @@ body {
 	border-radius: 10px
 }
 
-
-
 #end_container {
 
 	font-family: 'Montserrat', sans-serif;
@@ -166,9 +164,7 @@ body {
 
 }
 
-
 @media only screen and (max-width: 970px) and (min-width: 731px)  {
-
 	
 h2 {
 	font-family: 'Cinzel Decorative', cursive;
@@ -274,8 +270,6 @@ body {
    font-size: 16pt;
 }
 
-
-
 #done_button{
     
 	margin: 30px auto 0px auto;
@@ -289,8 +283,6 @@ body {
 	border-color: black;
 	border-radius: 10px
 }
-
-
 
 #end_container {
 
@@ -451,8 +443,6 @@ body {
 		border-color: black;
 		border-radius: 10px
 	}
-	
-	
 	
 	#end_container {
 	
